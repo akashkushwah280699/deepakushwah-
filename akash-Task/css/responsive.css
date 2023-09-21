@@ -1,0 +1,367 @@
+
+
+@media (max-width:767px) {
+	.Development-main {
+		padding: 40px 0;
+	}
+
+	.Development-main h2 {
+		font-size: 26px;
+		font-weight: 600;
+		margin-bottom: 20px;
+	}
+
+	.office-detail {
+		margin-bottom: 40px;
+	}
+
+	.office-detail.br-of.media {
+		margin-bottom: 0;
+	}
+
+	.features-main .col-sm-12 {
+		margin: 20px 0px;
+	}
+
+	.features-main {
+		padding: 50px 0px;
+	}
+
+	.features-title.text-center.text-white hr {
+		width: 20%;
+	}
+
+	ul.panel-box li {
+		border-right: none;
+		padding: 0px 0px;
+
+	}
+
+	.para p {
+		padding-left: 0;
+
+	}
+
+	.blog-box {
+		margin-bottom: 30px;
+	}
+
+	.bg-red::after {
+		background: none;
+		display: none;
+	}
+
+	.girl-img {
+		text-align: center;
+		margin-bottom: 20px;
+	}
+
+	.header-logo img {
+		max-width: 150px;
+	}
+
+	.mb-tc {
+		text-align: center;
+	}
+
+	.header-bottom {
+		top: 86px !important;
+		width: 100% !important;
+	}
+
+	.right-botton button {
+
+		display: block !important;
+		width: 100% !important;
+		margin: 0 10px !important;
+	}
+
+	.panel ul li a {
+		font-size: 16px;
+	}
+
+	.down-btn {
+		right: 30px;
+	}
+
+	.head-office .col-lg-3 {
+		width: 100% !important;
+	}
+
+}
+
+
+@media screen and (max-width:991px) {
+	header#header-main {
+		padding: 20px 0px;
+		box-shadow: 0 0 10px #000;
+		position: sticky;
+		z-index: 999999999999999;
+		top: 0;
+		background: white;
+	}
+
+	.matrimonial h2 {
+		font-size: 40px;
+	}
+
+	.container {
+		max-width: 100%;
+	}
+
+	.banner-main {
+
+		background-size: cover;
+	}
+
+	.box-main:hover {
+		box-shadow: 0 0 5px;
+	}
+
+	.development-title:after {
+		top: -30px;
+	}
+
+	.development {
+		padding: 40px 0px;
+	}
+
+	.left-development {
+		margin-bottom: 20px;
+	}
+
+	.matrimonial-text {
+		margin-top: 20px;
+	}
+
+	.banner-box {
+		width: 100% !important;
+	}
+
+	button.toggle-bar {
+		display: block;
+		font-size: 20px;
+		width: 45px;
+		height: 45px;
+		background: transparent;
+		border: none;
+		opacity: 1;
+		border: 2px solid;
+		color: #ea5324;
+	}
+
+	ul.panel-box li {
+		border-right: none;
+		padding: 0px 0px;
+	}
+
+	.blog-box.mb-re {
+		margin-top: 20px;
+	}
+
+	.Development-main h2 {
+		font-size: 24px;
+	}
+
+	.demo-btn {
+		font-size: 17px;
+	}
+
+	.head-office .col-lg-3 {
+		width: 50%;
+	}
+
+	.office-detail {
+		border: none;
+	}
+
+	.media {
+		padding-top: 10px;
+		margin-top: 40px;
+	}
+
+	.features-title.text-center.text-white hr {
+		width: 20%;
+	}
+
+	.header-top {
+		display: none;
+	}
+
+	.header-bottom {
+		transform: scaleY(0);
+		transform-origin: right top;
+		position: absolute;
+		transition: 0.3s;
+		top: 157px;
+		background: #000;
+		height: 100vh;
+		display: flex !important;
+		flex-direction: column;
+		justify-content: start;
+		width: 50%;
+		right: 0;
+
+	}
+
+	.right-content {
+		justify-content: end;
+		display: flex;
+	}
+
+	.right-content.toggle-menu .header-bottom {
+		transform: scaleY(1);
+
+
+	}
+
+	.right-content .header-bottom ul {
+		width: 100%;
+	}
+
+	.right-content .header-bottom .navigation ul li {
+		display: block;
+		width: 100%;
+		padding: 20px 20px;
+		border-bottom: 1px solid #fff;
+	}
+
+	.right-content .header-bottom .navigation ul li a {
+		color: white;
+		text-align: left;
+		font-size: 20px;
+	}
+
+	.navigation {
+		display: flex;
+		justify-content: left;
+		width: 100%;
+	}
+
+	.right-botton {
+		display: flex;
+		margin-top: 40px;
+		justify-content: center;
+	}
+}
+
+@media (min-width:992px) and (max-width:1024px) {
+	.right-botton button {
+		font-size: 14px;
+	}
+
+	.blog-main .col-lg-4 {
+		width: 50%;
+	}
+
+	.blog-box.mb-re {
+		margin-top: 20px;
+	}
+
+	.header-logo img {
+		max-width: 80%;
+	}
+
+	.navigation ul li a {
+		padding: 0 6px;
+		font-size: 14px;
+	}
+
+	.matrimonial h2 {
+		font-size: 30px;
+	}
+
+	.matrimonial p {
+		font-size: 14px;
+	}
+
+	.matrimonial h3 {
+		font-size: 18px;
+	}
+
+	.Development-main h2 {
+		font-size: 30px;
+		font-weight: 600;
+	}
+
+	.head-office .col-lg-3 {
+		width: 50%;
+	}
+
+	.br-of {
+		padding-top: 20px;
+	}
+
+	.features-main .col-lg-3 {
+		width: 50%;
+	}
+
+	.media {
+		padding-top: 10px;
+		margin-top: 40px;
+	}
+}
+
+
+@media (min-width: 1200px) and (max-width:1280px) {
+	.right-botton button {
+		font-size: 16px;
+	}
+
+	.header ul li a {
+		font-size: 16px;
+	}
+
+	.office-add h2 {
+		font-size: 16px;
+	}
+
+	.banner-box {
+		margin-left: auto;
+		width: 85%;
+		margin-right: auto;
+		float: right;
+	}
+
+	.title-banner {
+		width: 100%;
+		margin-left: auto;
+		margin-right: auto;
+		color: #fff;
+	}
+}
+
+
+@media screen and (max-width:1366px) {
+	.banner-box {
+		margin-left: auto;
+		width: 85%;
+		margin-right: auto;
+		float: right;
+	}
+
+	.title-banner {
+		width: 100%;
+		margin-left: auto;
+		margin-right: auto;
+		color: #fff;
+	}
+
+}
+
+@media screen and (max-width:1400px) {
+	.banner-box {
+		margin-left: auto;
+		width: 85%;
+		margin-right: auto;
+		float: right;
+	}
+
+	.title-banner {
+		width: 100%;
+		margin-left: auto;
+		margin-right: auto;
+		color: #fff;
+	}
+
+}
